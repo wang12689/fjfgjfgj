@@ -1,0 +1,93 @@
+{
+  "lastUpdate": "2026-08-05 19:52:40",
+  "items": [
+    {
+      "title": "《大话西游》",
+      "category": "爱情片",
+      "year": 1995,
+      "director": "刘镇伟",
+      "actor": "周星驰 / 朱茵",
+      "quote": "曾经有一份真诚的爱情摆在我面前，我没有珍惜，等我失去的时候才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是…… 一万年。",
+      "scene": "夕阳武士城头告白 · 至尊宝紫霞仙子女",
+      "views": 98210,
+      "rating": 9.2
+    },
+    {
+      "title": "《阿甘正传》",
+      "category": "励志片",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "actor": "Tom Hanks",
+      "quote": "Life was like a box of chocolates, you never know what you're gonna get. （人生就像一盒巧克力，你永远不知道下一颗是什么味道。）",
+      "scene": "阿甘坐在长椅上等巴士，给路人讲述自己一生的故事。",
+      "views": 88430,
+      "rating": 9.5
+    },
+    {
+      "title": "《肖申克的救赎》",
+      "category": "剧情片",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "actor": "Tim Robbins / Morgan Freeman",
+      "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies. （希望是美好的事，也许是人间至善，而美好的事永不消逝。）",
+      "scene": "Andy 爬出 500 码污水管道，在暴雨中张开双臂拥抱自由。",
+      "views": 102387,
+      "rating": 9.7
+    },
+    {
+      "title": "《星际穿越》",
+      "category": "科幻片",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "actor": "Matthew McConaughey / Anne Hathaway",
+      "quote": "Do not go gentle into that good night. Old age should burn and rave at close of day. Rage, rage against the dying of the light. （不要温顺地走进那个良夜，激情不能被消沉的暮色淹没。）",
+      "scene": "Cooper 穿越虫洞前，女儿墨菲的书架后藏着爱的引力。",
+      "views": 67540,
+      "rating": 9.4
+    },
+    {
+      "title": "《霸王别姬》",
+      "category": "剧情片",
+      "year": 1993,
+      "director": "陈凯歌",
+      "actor": "张国荣 / 张丰毅 / 巩俐",
+      "quote": "说的是一辈子！差一年，一个月，一天，一个时辰，都不算一辈子！",
+      "scene": "程蝶衣在段小楼面前嘶吼，诉说对京剧艺术的极致执念。",
+      "views": 91720,
+      "rating": 9.6
+    },
+    {
+      "title": "《千与千寻》",
+      "category": "动画电影",
+      "year": 2001,
+      "director": "宫崎骏",
+      "actor": "柊瑠美 / 入野自由",
+      "quote": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
+      "scene": "千寻踏上海上列车，无脸男坐在身旁，驶向沼底。",
+      "views": 86210,
+      "rating": 9.4
+    },
+    {
+      "title": "《这个杀手不太冷》",
+      "category": "动作片",
+      "year": 1994,
+      "director": "Luc Besson",
+      "actor": "Jean Reno / Natalie Portman",
+      "quote": "Is life always this hard, or is it just when you're a kid? Always like this. （人生总是这么痛苦吗？还是只有小时候是这样？—— 总是如此。）",
+      "scene": "Mathilda 坐在公寓走廊，望着 Leon 的猫眼发问。",
+      "views": 74320,
+      "rating": 9.4
+    },
+    {
+      "title": "《泰坦尼克号》",
+      "category": "爱情片",
+      "year": 1997,
+      "director": "James Cameron",
+      "actor": "Leonardo DiCaprio / Kate Winslet",
+      "quote": "You jump, I jump. Remember? （你跳，我就跳。记得吗？）",
+      "scene": "Jack 站在泰坦尼克号栏杆后，紧紧抱住站在船舷边想要跳海的 Rose。",
+      "views": 110240,
+      "rating": 9.4
+    }
+  ]
+}
